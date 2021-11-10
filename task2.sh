@@ -48,28 +48,3 @@ case $CODE in
     *) echo "Opcion $CODE desconocida" ;;
 esac
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
